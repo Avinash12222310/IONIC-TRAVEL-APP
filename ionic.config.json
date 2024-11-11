@@ -1,0 +1,7 @@
+{
+  "name": "eco travel",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
